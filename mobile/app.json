@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Family Budget",
+    "slug": "family-budget",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android"],
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
